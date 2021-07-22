@@ -1,0 +1,64 @@
+html, body {
+	height: 100%;
+  background-color: #ffffff;
+  text-align: center;
+  margin: 0;
+}
+
+* {
+	font-family: Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+#app {
+	position: relative;
+	height: 100%;
+	width: 100%;
+  font-family: impact;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+}
+
+th {
+  text-decoration: underline;
+}
+
+.header {
+  text-align: center;
+  margin: 1em 15px 0px 15px;
+  padding: 2em 2em 0px 2em;
+  border-radius: 5px;
+  background-color: #80ced6;  
+  border: solid #50394c 3px;
+}
+
+img {
+  width: 150px;
+}
+
+img.rounded-corners {
+  border-radius: 30px;
+}
+
+.App {
+  background-color:  #ffef96;
+  margin: 10px 15px 15px 15px;
+  padding: 15px 2em 2em 2em;
+  border-radius: 5px;
+  font-size: 2sem;
+  font-family: impact;
+  border: solid #50394c 3px;
+}
+
+.h1-header {
+  font-family: impact;
+  color: #50394c;
+  font-size: 4em;
+}
+
+table {
+  font-family: impact;
+}
